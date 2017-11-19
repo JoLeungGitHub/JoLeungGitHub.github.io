@@ -1,16 +1,11 @@
-- name: Hello World
-  link: #
-  description: I created a hello World Application
+- name: Twitter DM Bot
+  link: https://goo.gl/yOeJoj
+  description: Bot created in JavaScript to learn the basics of the twitter API and Node.js
   
-- name: Hello World
-  link: #
-  description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+- name: Twitter Data
+  link: https://goo.gl/6z09Js
+  description: Program created in python to read through "Twitter Data files"
   
-- name: Hello World
-  link: #
-  description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-
-- name: Hello World
-  link: #
-  description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-  
+- name: DNA Strand
+  link: https://goo.gl/QHClQv
+  description: Program created in python to analyse and modify "DNA Strands"
